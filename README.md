@@ -5,7 +5,7 @@ URLGuard AI is a cyber-security threat intelligence interface and frontend appli
 AI-Powered Threat Intelligence System for Real-Time URL Analysis
 URLGuard AI is a lightweight, single-file web application that detects malicious URLs — including phishing attempts, malware distribution links, and scam patterns — using AI-driven threat analysis powered by the Claude API.
 
-live demo[]
+live demo[https://thejas127.github.io/url-guard-ai-threat-detector-/]
 
 🔍 Overview
 
